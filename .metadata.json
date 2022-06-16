@@ -1,0 +1,22 @@
+[
+  {
+    "package": "formattable",
+    "oncran": true
+  },
+  {
+    "package": "pipeR",
+    "oncran": true
+  },
+  {
+    "package": "rlist",
+    "oncran": true
+  },
+  {
+    "package": "rprintf",
+    "oncran": true
+  },
+  {
+    "package": "rtype",
+    "oncran": true
+  }
+]
