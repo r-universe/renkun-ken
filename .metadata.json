@@ -1,14 +1,14 @@
 [
   {
-    "package": "formattable",
-    "oncran": true
-  },
-  {
     "package": "pipeR",
     "oncran": true
   },
   {
-    "package": "rlist",
+    "package": "rtype",
+    "oncran": true
+  },
+  {
+    "package": "formattable",
     "oncran": true
   },
   {
@@ -16,7 +16,7 @@
     "oncran": true
   },
   {
-    "package": "rtype",
+    "package": "rlist",
     "oncran": true
   }
 ]
