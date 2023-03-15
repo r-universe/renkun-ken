@@ -3,19 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "formattable"]
+	path = formattable
+	url = https://github.com/renkun-ken/formattable
+	shallow = true
+	registered = true
 [submodule "pipeR"]
 	path = pipeR
 	url = https://github.com/renkun-ken/piper
 	shallow = true
 	registered = true
-[submodule "rtype"]
-	path = rtype
-	url = https://github.com/renkun-ken/rtype
-	shallow = true
-	registered = true
-[submodule "formattable"]
-	path = formattable
-	url = https://github.com/renkun-ken/formattable
+[submodule "rlist"]
+	path = rlist
+	url = https://github.com/renkun-ken/rlist
 	shallow = true
 	registered = true
 [submodule "rprintf"]
@@ -23,8 +23,8 @@
 	url = https://github.com/renkun-ken/rprintf
 	shallow = true
 	registered = true
-[submodule "rlist"]
-	path = rlist
-	url = https://github.com/renkun-ken/rlist
+[submodule "rtype"]
+	path = rtype
+	url = https://github.com/renkun-ken/rtype
 	shallow = true
 	registered = true
